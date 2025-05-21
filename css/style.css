@@ -147,6 +147,7 @@ a {
     border-bottom: 2px solid #f9f9f9;
     box-shadow: none;
     margin: 0 !important;
+    z-index: 17000;
 }
 
 .navbar-default .navbar-brand {
@@ -374,7 +375,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 2000;
+  z-index: 30;
 }
 #price svg{
   width: 50px;
@@ -598,6 +599,12 @@ footer .copyright-text {
     left: 30px;
     right: 10px;
   }
+  .navbar-default .navbar-brand {
+    font-size: 28px;
+  }
+  .navbar-default .navbar-nav li a{
+    font-size: 18px;
+  }
 
 }
 
@@ -701,5 +708,24 @@ footer .copyright-text {
   }
 
 }
+@media (max-width: 425px) {
+  #overview .btn{
+    font-size: 22px;
+    letter-spacing: 2px;
+    padding: 14px 28px;
+  }
+}
 
+@media (max-width: 365px) {
+  .navbar-default .navbar-brand {
+    font-size: 28px;
+  }
+}
 
+@media (max-width: 320px) {
+  #overview .btn{
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding: 14px 24px;
+  }
+}
