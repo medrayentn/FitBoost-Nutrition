@@ -24,7 +24,8 @@ A responsive and modern landing page for **Emma Johnson**, a certified nutrition
 ## Technologies Used
 
 - HTML5  
-- CSS3  
+- CSS3
+- Bootstrap
 - Google Fonts  
 - Font Awesome  
 - JavaScript (optional for interactivity)
