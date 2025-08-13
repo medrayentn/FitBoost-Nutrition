@@ -4,7 +4,7 @@ A responsive and modern landing page for **Emma Johnson**, a certified nutrition
 
 ## Demo Screeshots
 
-![FitBoost Nutrition Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![FitBoost Nutrition Desktop Demo](./images/desktop.png "Desktop Demo")
 
 ## Live Demo
 
