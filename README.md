@@ -2,6 +2,10 @@
 
 A responsive and modern landing page for **Emma Johnson**, a certified nutritionist and fitness coach. This website is designed to promote her online coaching services through a clean and professional interface.
 
+## Demo Screeshots
+
+![FitBoost Nutrition Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 ## Live Demo
 
 [Click here to view the live site](https://medrayentn.github.io/FitBoost-Nutrition)  
